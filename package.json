@@ -1,0 +1,33 @@
+{
+  "name": "@shfaddy/tarabaiza",
+  "version": "1.0.0",
+  "description": "Shaikh Faddy's Music Instrument",
+  "keywords": [
+    "shfaddy",
+    "shaikhfaddy",
+    "tarabaiza",
+    "framework",
+    "functional",
+    "scenarios",
+    "music",
+    "sound",
+    "versatile",
+    "recursive",
+    "recursion"
+  ],
+  "homepage": "https://github.com/shfaddy/tarabaiza#readme",
+  "bugs": {
+    "url": "https://github.com/shfaddy/tarabaiza/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shfaddy/tarabaiza.git"
+  },
+  "license": "Unlicense",
+  "author": "Shaikh Faddy <shfaddy@gmail.com> (https://github.com/shfaddy#README)",
+  "type": "module",
+  "exports": {
+    ".": "./core.js",
+    "./sound": "./sound/scenario.js"
+  }
+}
